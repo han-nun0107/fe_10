@@ -36,6 +36,7 @@ cd calculator-project
 - **버튼 hover 효과**: 버튼에 마우스를 올리면 색상이 변경되어 사용자에게 시각적 피드백을 제공합니다.
 - **특수 버튼 스타일링**: `AC` , `DEL`  등의 특수 버튼은 색상을 다르게 설정하여 주요 기능을 강조합니다.
 ## 동작 화면
+![Image](https://github.com/user-attachments/assets/243774a7-724d-4def-8755-a6087e7c9c12)
 ## 브랜치 전략
 이 프로젝트는 **Git Flow**에 기반하여 `main`과 `develop` 브랜치를 사용해 관리합니다.
 
